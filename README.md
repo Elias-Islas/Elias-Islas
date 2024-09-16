@@ -11,13 +11,13 @@
   Hola soy Elias. ¡Un placer conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-Profesional entusiasta con sólidas habilidades en pruebas de software, con bases de automatización, buscando contribuir al aseguramiento de la calidad en proyectos dinámicos
+
 <div id="header" align="left">
  
 ---
 
 ## Algo de mi:
-*  📖 actualente me estoy preparando con algunos bootcamp para mejorar mi desempeño en lo que algun dia sera mi trabajo 👨‍💻
+*  📖 actualente me estoy preparando con algunos bootcamp para mejorar mi desempeño en lo que algún día sera mi trabajo 👨‍💻
    
 *  🔍 me gusta mucho los retos y desafios, al igual que la investigación 🔎
 
