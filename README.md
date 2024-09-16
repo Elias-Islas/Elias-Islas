@@ -4,14 +4,14 @@
 
 <div id="header" align="center">
   
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](hhttp://www.linkedin.com/in/elias-islas-leyva)  [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=(+52)7757526448) 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-islas-leyva/)  [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=(+52)7757526448) 
 </div>
 
 <h1>
   Hola soy Elias. ¡Un placer conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
+Profesional entusiasta con sólidas habilidades en pruebas de software, con bases de automatización, buscando contribuir al aseguramiento de la calidad en proyectos dinámicos
 <div id="header" align="left">
  
 ---
